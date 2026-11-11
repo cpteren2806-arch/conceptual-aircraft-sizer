@@ -9,8 +9,6 @@ You enter the number of passengers, range, cruise speed, runway length, wing sha
 - the **wing area and span**
 - the **thrust per engine**
 
-**Live demo:** https://aktepeeren3-crypto.github.io/conceptual-aircraft-sizer/
-
 ## Why I made this
 
 I made this as a student project while taking the course *Digitalisation in Aeronautics* (TUM). The course explained the first steps of aircraft design. I wanted to turn those steps into a working tool and see how the numbers change.
